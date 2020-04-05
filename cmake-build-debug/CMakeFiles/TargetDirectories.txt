@@ -1,0 +1,3 @@
+/Users/zeroisone/CLionProjects/huawei2020-first/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zeroisone/CLionProjects/huawei2020-first/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zeroisone/CLionProjects/huawei2020-first/cmake-build-debug/CMakeFiles/huawei2020_first.dir

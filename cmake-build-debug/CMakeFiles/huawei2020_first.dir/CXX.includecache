@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zeroisone/CLionProjects/huawei2020-first/main.cpp
+iostream
+-
+vector
+-
+set
+-
+queue
+-
+fstream
+-
+thread
+-
+map
+-
+algorithm
+-
+
